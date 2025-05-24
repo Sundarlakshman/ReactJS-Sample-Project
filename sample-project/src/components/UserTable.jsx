@@ -27,7 +27,7 @@ const UserTable = () => {
       <div className="d-flex justify-content-between mb-3">
         <h4>User List</h4>
         <button className="btn btn-success" onClick={() => openModal()}>
-          ADD
+          Add
         </button>
       </div>
 
