@@ -1,0 +1,7 @@
+{
+    "states": {
+      "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai"],
+      "Maharashtra": ["Mumbai", "Pune", "Nagpur"],
+      "Karnataka": ["Bengaluru", "Mysuru", "Mangaluru"]
+    }
+  }
